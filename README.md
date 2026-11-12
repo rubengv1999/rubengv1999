@@ -2,20 +2,22 @@
 
 # Hi, I'm Rubén González Villanueva 👋
 
-**Software Engineer II at Microsoft · Professor at Texas Tech University · AI/ML Researcher**
+**Software Engineer · Professor · AI/ML Researcher**
 
 [LinkedIn](https://www.linkedin.com/in/rubengv1999/) · [Google Scholar](https://scholar.google.com/citations?user=rO3kZjQAAAAJ&hl=en) · [Email](mailto:rubengv1999@gmail.com)
 
 </div>
 
-I'm a software engineer and educator from Costa Rica. At Microsoft, I work on reliable, secure, high-performance services for Microsoft 365 Copilot. I also teach computer science at Texas Tech University and have research experience in machine learning, computer vision, and plant species identification.
+I'm a software engineer and educator from Costa Rica. I currently work at Microsoft and teach computer science at Texas Tech University. My experience also includes teaching at the University of Costa Rica and working in data engineering and DevOps at Procter & Gamble. I studied at Tecnológico de Costa Rica, where I graduated with honours.
 
-## What I do
+## Career & education
 
-- **Product engineering:** Improved Microsoft 365 Copilot chat's P95 server-side rendering latency to **343 ms** through backend optimizations, smaller payloads, and distributed service improvements.
-- **Security and reliability:** Implemented proof-of-possession authentication for conversation storage and led security hardening across secrets, certificates, and compliance migrations.
-- **Observability:** Built latency attribution dashboards and telemetry pipelines for performance diagnostics and incident response.
-- **Teaching:** Professor at Texas Tech University, teaching **Discrete Computational Structures**. Previously taught machine learning, artificial intelligence, software testing, and computer science principles at the University of Costa Rica.
+- **Microsoft:** Software Engineer II, contributing to software products and services.
+- **Texas Tech University:** Professor teaching **Discrete Computational Structures**.
+- **University of Costa Rica:** Previously taught machine learning, artificial intelligence, software testing, and computer science principles.
+- **Procter & Gamble:** Worked in data engineering and DevOps, building and supporting cloud data pipelines.
+- **Earlier experience:** Full-stack engineering and technology leadership at Global Teams and Grupo Empresarial Datasoft.
+- **Tecnológico de Costa Rica:** Honours Graduate.
 - **Research:** Explore machine learning and computer vision, including class-imbalanced learning and efficient large-scale plant identification.
 
 ## Selected research
@@ -28,8 +30,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=rO3kZj
 
 ## Recognition
 
-- **Microsoft Global Hackathon 2025:** Four awards and a runner-up recognition for *Multi-User Sessions in Copilot*, a real-time collaboration experience.
-- **Microsoft Global Hackathon 2024:** Costa Rica venue award for *Most Creative or Innovative*, for an AI tool that summarizes Costa Rican congressional discussions.
+- **Microsoft Global Hackathons 2024–2025:** Five awards recognizing collaborative, innovative AI projects.
 - **PlantCLEF 2022:** 4th place for automatic plant identification under constrained resources.
 - **Honours Graduate**, Tecnológico de Costa Rica.
 
