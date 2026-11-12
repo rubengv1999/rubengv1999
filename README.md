@@ -4,7 +4,7 @@
 
 **Software Engineer II at Microsoft · Professor at Texas Tech University · AI/ML Researcher**
 
-[Portfolio](https://rubengv1999.github.io/rubengv1999-portfolio/) · [LinkedIn](https://www.linkedin.com/in/rubengv1999/) · [Google Scholar](https://scholar.google.com/citations?user=rO3kZjQAAAAJ&hl=en) · [Email](mailto:rubengv1999@gmail.com)
+[Portfolio](https://rubengv1999.github.io/) · [LinkedIn](https://www.linkedin.com/in/rubengv1999/) · [Google Scholar](https://scholar.google.com/citations?user=rO3kZjQAAAAJ&hl=en) · [Email](mailto:rubengv1999@gmail.com)
 
 </div>
 
@@ -26,7 +26,7 @@ I'm Rubén González Villanueva, also published as Ruben Gonzalez-Villanueva. I�
 - [Improving Balanced Accuracy for Minority Plant Species under Data Imbalance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rO3kZjQAAAAJ&citation_for_view=rO3kZjQAAAAJ:UeHWp8X0CEIC) — explored self-supervised learning, sampling, and class weighting to improve balanced accuracy.
 - [Extreme Automatic Plant Identification Under Constrained Resources](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rO3kZjQAAAAJ&citation_for_view=rO3kZjQAAAAJ:2osOgNQ5qMEC) — contributed to a resource-efficient approach that placed **4th** in PlantCLEF 2022.
 
-See my [portfolio](https://rubengv1999.github.io/rubengv1999-portfolio/) for my background and [Google Scholar profile](https://scholar.google.com/citations?user=rO3kZjQAAAAJ&hl=en) for more publications.
+See my [portfolio](https://rubengv1999.github.io/) for my background and [Google Scholar profile](https://scholar.google.com/citations?user=rO3kZjQAAAAJ&hl=en) for more publications.
 
 ## Recognition
 
